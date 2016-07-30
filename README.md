@@ -1,2 +1,2 @@
 # hello-world
-This test repository
+This test repository by R.S.D.
